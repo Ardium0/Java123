@@ -1,3 +1,4 @@
+<p>
 import java.awt.*;
 import java.awt.event.*;
 import java.io.IOException;
@@ -59,3 +60,4 @@ public class Main extends Frame{
         Main f = new Main();
     }
 }
+</p>
